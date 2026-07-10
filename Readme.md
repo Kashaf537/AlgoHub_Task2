@@ -13,8 +13,6 @@ A machine learning classification project that predicts a student's academic per
 - [Methodology](#-methodology)
 - [Results & Screenshots](#-results--screenshots)
 - [Running the App](#-running-the-app)
-- [Future Improvements](#-future-improvements)
-
 ---
 
 ## 🎯 Project Overview
